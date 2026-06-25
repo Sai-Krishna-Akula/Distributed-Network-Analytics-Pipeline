@@ -1,0 +1,3 @@
+# Convenience wrapper — canonical file is deploy/compose/docker-compose.yml (per project spec).
+include:
+  - path: deploy/compose/docker-compose.yml

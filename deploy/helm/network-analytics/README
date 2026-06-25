@@ -1,0 +1,5 @@
+# Helm chart — Phase 7
+
+Chart path per spec: `deploy/helm/network-analytics/`
+
+Planned resources: Deployments, Services, ConfigMaps, Secrets, values-dev.yaml.

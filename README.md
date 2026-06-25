@@ -164,12 +164,3 @@ Copy `.env.example` to `.env`. Key variables:
 - **DLQ pattern:** poison messages isolated without blocking the pipeline (Phase 2)
 - **Telecom metrics:** PRB utilization, handover count, latency — mirrors RAN/OSS background
 
-<<<<<<< HEAD
-## References
-
-- **Canonical spec (Word):** `E:\Switch\JobSwitchPlan\Distributed-Network-Analytics-Pipeline.docx`
-- Regenerate doc: `python E:\Switch\JobSwitchPlan\generate_project_docx.py`
-- Markdown guide: `E:\Switch\JobSwitchPlan\distributed-network-analytics-pipeline-guide.md`
-- Worksheet tracker: `E:\Switch\JobSwitchPlan\worksheets\10-distributed-analytics-pipeline.md`
-=======
->>>>>>> 580a75e (Project structure)

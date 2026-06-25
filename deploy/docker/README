@@ -1,0 +1,3 @@
+# Dockerfiles — Phase 7
+
+Multi-stage `python:3.11-slim` images for producer, consumer, api, and alert-engine.
